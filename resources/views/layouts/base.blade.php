@@ -15,6 +15,6 @@
     @yield('content.base')
 </div>
 
-<link media="all" type="text/css" rel="stylesheet" href="{{ mix('/assets/styles/app.css') }}">
+<link media="all" type="text/css" rel="stylesheet" href="{{ mix('/css/app.css') }}">
 </body>
 </html>
