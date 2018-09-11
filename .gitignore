@@ -20,13 +20,14 @@ _ide_helper.php
 
 # Packaged Dependencies
 /node_modules/
-/bower_components/
 /packages/
 /vendor/
 
 # Laravel files
 .env
-/public/assets/
+/public/css/
+/public/fonts/
+/public/js/
 /public/storage/
 /public/images/
 /public/robots.txt
