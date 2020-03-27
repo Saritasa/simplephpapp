@@ -30,7 +30,7 @@
         <div class="row mt-5">
             <div class="col-md-4">
                 <h3>Php version</h3>
-                @if (version_compare('7.1.0', PHP_VERSION) >= 0)
+                @if (version_compare('7.3.0', PHP_VERSION) >= 0)
                     <span class="text-danger">{{ PHP_VERSION}}</span>
                 @else
                     <span class="text-success">{{ PHP_VERSION }}</span>
