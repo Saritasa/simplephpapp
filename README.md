@@ -1,5 +1,5 @@
 # Requirements
-1. PHP version >=7.1
+1. PHP version >=7.3
 
 # Installation
 - Clone repository
